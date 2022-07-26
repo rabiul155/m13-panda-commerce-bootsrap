@@ -12,4 +12,5 @@
     color: white;
     background-image: linear-gradient(to left, red, black);
     padding: 10px 25px;
+    font-weight: 700;
 }
