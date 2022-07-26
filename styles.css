@@ -1,0 +1,15 @@
+.bg-color {
+    background-color: #fceae8;
+
+}
+
+.images img {
+    width: 100px;
+
+}
+
+.button {
+    color: white;
+    background-image: linear-gradient(to left, red, black);
+    padding: 10px 25px;
+}
